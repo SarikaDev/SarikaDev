@@ -53,9 +53,9 @@
 <h2>🤝 Connect With Me</h2>
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yourprofile" height="30" width="40" /></a>
-  <a href="https://github.com/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="yourusername" height="30" width="40" /></a>
-  <a href="https://medium.com/yourblog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="yourblog" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sairam-sarika-79758935a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yourprofile" height="30" width="40" /></a>
+  <a href="https://github.com/SarikaDev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SarikaDev" height="30" width="40" /></a>
+
 </p>
 
 ---
@@ -64,7 +64,6 @@
 <p>I'm actively seeking opportunities in <b>data analysis and business intelligence</b>. Let's collaborate!</p>
 
 <p>📧 <b>Email:</b> sairamsarika24@gmail.com<br>
-🌐 <b>Portfolio:</b> <a href="https://yourwebsite.com">yourwebsite.com</a></p>
 
 ---
 
